@@ -113,6 +113,7 @@ SHA256 38c04974aa9536558e14dc8baab7dc434cf7d309733959065ec51f8df82c00ea
 [蓝奏云中国 下载](https://apex.tf/nodown)
 
 压缩包内语言包  \Cisco Packet Tracer 8.2.2\languages\Simplified Chinese.ptl
+
 压缩包内主要执行程序免登入Cisco账号  \Cisco Packet Tracer 8.2.2\bin\PacketTracer.exe
 
 ```
